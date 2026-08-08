@@ -1,4 +1,4 @@
-# Hi, I'm Callan 👋
+# Hi, I'm Callan Logan 👋
 
 I'm an Aerospace Engineering student at Georgia Tech interested in software, game systems, simulation, networking, and the math underneath them.
 
