@@ -1,26 +1,35 @@
 # Hi, I'm Callan Logan 👋
 
-I'm an Aerospace Engineering student at Georgia Tech interested in software, game systems, simulation, networking, and the math underneath them.
+I'm an Aerospace Engineering student at Georgia Tech and Co-Owner of [Legendary Games](https://legendarygames.dev), a Hypixel Housing community of creators, developers, and builders.
 
-I enjoy building things that turn technical ideas into working systems—and understanding why they work along the way.
+I'm the main maintainer of the full-stack platform behind Legendary Games. It powers live house discovery, statistics and history, player and house profiles, news, chat, accounts, and community tools, supported by Discord and Minecraft infrastructure.
 
-## Featured project
+I'm also a primary developer of HTSW, a toolchain for writing, validating, simulating, and importing Hypixel Housing projects. Outside Housing, I build multiplayer game systems in Unity and experiment with networking, developer tools, and automation.
+
+## Current work
+
+### [Legendary Games](https://legendarygames.dev)
+
+A public platform for the Hypixel Housing ecosystem, backed by a TypeScript and React application, REST and WebSocket services, PostgreSQL, Redis, and a fleet of Discord and Minecraft bots.
+
+### [HTSW](https://docs.legendarygames.dev/htsw/)
+
+A refined HTSL parser, type system, runtime, simulator, importer/exporter, and development environment. It includes a CLI, VS Code integration, and an in-game module for synchronizing code with Hypixel Housing.
+
+### KillAI
+
+A private multiplayer Unity project where I'm working with C#, Netcode, Relay, server-authoritative interactions, physics, and in-game communication systems.
+
+## Public projects
 
 ### [Double Raycast](https://github.com/Callanplays/Double-Raycast)
 
-An efficient player-raycasting system for Hypixel Housing, built with HTSW. It uses vector projection and distance calculations to detect player hits, calculate range, and distinguish headshots from body shots.
+A player-raycasting system for Hypixel Housing built with HTSW. It uses vector projection to detect hits, calculate range, and distinguish headshots from body shots.
 
-## Earlier work
+### [GuildPixel](https://github.com/Callanplays/GuildPixel) — 2023
 
-### [GuildPixel](https://github.com/Callanplays/GuildPixel) (2023)
+An early Python Discord bot built for a Hypixel guild community. It displayed community statistics, generated guild messages, and managed a Question of the Day leaderboard.
 
-An early Python Discord bot that connected a Hypixel guild community with Discord. It displayed community statistics, generated guild messages, and managed a Question of the Day leaderboard. Originally built in 2023 and uploaded to GitHub in 2024.
+## Beyond code
 
-## What I'm working on
-
-- Game systems and multiplayer projects
-- Developer tools and technical experiments
-- Learning more about computer science and networking
-- Playing violin 🎻
-
-You can also find my projects at [legendarygames.dev](https://legendarygames.dev).
+I play the violin 🎻 and enjoy learning how the systems around me work—from networks and radios to game engines and simulation.
