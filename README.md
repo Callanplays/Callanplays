@@ -1,6 +1,6 @@
 # Hi, I'm Callan Logan 👋
 
-I'm an Aerospace Engineering student at Georgia Tech and Co-Owner of [Legendary Games](https://legendarygames.dev), a Hypixel Housing community of creators, developers, and builders.
+I'm an Aerospace Engineering student at Georgia Tech and Co-Owner of [Legendary Games](https://legendarygames.dev), a Hypixel Housing community of creators, developers, and builders working on Minecraft minigames!
 
 I'm the main maintainer of the full-stack platform behind Legendary Games. It powers our website, which tracks houses, statistics, history, player and house profiles, news, chat, accounts, and community tools, as well as Discord and Minecraft infrastructure.
 
@@ -18,9 +18,13 @@ A refined HTSL parser, type system, runtime, simulator, importer/exporter, and d
 
 ## Public projects
 
+### [Car Simulator](https://github.com/Callanplays/car-testing)
+
+A WIP car simulator in Minecraft built with HTSW. Features drifting & rudimentary ground/jump detection 
+
 ### [Double Raycast](https://github.com/Callanplays/Double-Raycast)
 
-A player-raycasting system for Hypixel Housing built with HTSW. It uses vector projection to detect hits, calculate range, and distinguish headshots from body shots.
+A player-raycasting system for Hypixel Housing built with HTSW. It uses vector math & trig approximations to detect hits, calculate range, and distinguish headshots from body shots.
 
 ### [GuildPixel](https://github.com/Callanplays/GuildPixel) — 2023
 
@@ -28,4 +32,4 @@ An early Python Discord bot built for a Hypixel guild community. It displayed co
 
 ## Beyond code
 
-I play the violin 🎻 and enjoy learning how the systems around me work—from networks and radios to game engines and simulation.
+I play the violin 🎻 and enjoy learning how the systems around me work!
