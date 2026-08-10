@@ -12,7 +12,7 @@ I'm also a primary developer of HTSW, a toolchain for writing, validating, simul
 
 A public platform for the Hypixel Housing, backed by a TypeScript and React application, REST and WebSocket services, PostgreSQL, Redis, and a fleet of Minecraft bots.
 
-### [HTSW](https://docs.legendarygames.dev/htsw/)
+### [HTSW](https://github.com/LGHousing/htsw)
 
 A refined HTSL parser, type system, runtime, simulator, importer/exporter, and development environment. It includes a CLI, VS Code integration, and an in-game module for synchronizing code with Hypixel Housing.
 
