@@ -12,7 +12,7 @@ At Georgia Tech, I'm on HCAT, the hybrid rocket motor team of Ramblin' Competiti
 
 ### [HRAP2](https://github.com/sidbanch/HRAP2) — Ramblin' Competition Rocketry
 
-HCAT's Python hybrid rocket motor simulator, with a desktop app, based on the MATLAB Hybrid Rocket Analysis Program. I reorganized the codebase and improved the plots and units. I'm now adding a sweep that tests nozzle throat and injector sizes together, plus injector models for nitrous that boils as it flows. I'm using it to size HPS-mini, a 2-inch hybrid motor the team is building to test fuel grains.
+HCAT's hybrid rocket motor simulator, a Python version of the Hybrid Rocket Analysis Program with a desktop app. I use it to simulate and size the team's hybrid motors, and I'm building new features and analysis tools for it.
 
 ### [Legendary Games](https://legendarygames.dev)
 
